@@ -36,7 +36,7 @@ const Login = () => {
         </form>
             <button onClick={handleClick} className="btn btn-large next">Next</button>
             <div className="and">OR</div>
-            <button onClick={ () => setMobile("google")} className=" btn btn-large google">Continue With Google</button>
+            <button onClick={ () => setMobile("google")} type="button" className=" btn btn-large google">Continue With Google</button>
         </div>
         { mobile === "mobile" && <Otp />}
         { mobile === "google" && <Loginform />}
