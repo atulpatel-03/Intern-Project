@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Intern-Project/static/css/main.09f879f2.chunk.css",
-    "main.js": "/Intern-Project/static/js/main.0cc51730.chunk.js",
-    "main.js.map": "/Intern-Project/static/js/main.0cc51730.chunk.js.map",
+    "main.css": "/Intern-Project/static/css/main.1916235d.chunk.css",
+    "main.js": "/Intern-Project/static/js/main.edab4b76.chunk.js",
+    "main.js.map": "/Intern-Project/static/js/main.edab4b76.chunk.js.map",
     "runtime-main.js": "/Intern-Project/static/js/runtime-main.201c6975.js",
     "runtime-main.js.map": "/Intern-Project/static/js/runtime-main.201c6975.js.map",
-    "static/js/2.846dfad4.chunk.js": "/Intern-Project/static/js/2.846dfad4.chunk.js",
-    "static/js/2.846dfad4.chunk.js.map": "/Intern-Project/static/js/2.846dfad4.chunk.js.map",
+    "static/js/2.a7630f53.chunk.js": "/Intern-Project/static/js/2.a7630f53.chunk.js",
+    "static/js/2.a7630f53.chunk.js.map": "/Intern-Project/static/js/2.a7630f53.chunk.js.map",
     "index.html": "/Intern-Project/index.html",
-    "static/css/main.09f879f2.chunk.css.map": "/Intern-Project/static/css/main.09f879f2.chunk.css.map",
-    "static/js/2.846dfad4.chunk.js.LICENSE.txt": "/Intern-Project/static/js/2.846dfad4.chunk.js.LICENSE.txt",
+    "static/css/main.1916235d.chunk.css.map": "/Intern-Project/static/css/main.1916235d.chunk.css.map",
+    "static/js/2.a7630f53.chunk.js.LICENSE.txt": "/Intern-Project/static/js/2.a7630f53.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Intern-Project/static/media/whatsapp.79cf5a3f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.201c6975.js",
-    "static/js/2.846dfad4.chunk.js",
-    "static/css/main.09f879f2.chunk.css",
-    "static/js/main.0cc51730.chunk.js"
+    "static/js/2.a7630f53.chunk.js",
+    "static/css/main.1916235d.chunk.css",
+    "static/js/main.edab4b76.chunk.js"
   ]
 }
