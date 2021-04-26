@@ -1,6 +1,6 @@
 import React, { Component } from 'react'; 
 import reactDom from 'react-dom';
-import Login from "./Login";
+import App from "../App";
 
 export const Header = () => {
     const [sign, setSign]=React.useState(false);
@@ -25,7 +25,7 @@ export const Header = () => {
         </nav>
         <div>
        
-        {sign === true && <Login />} 
+        {sign === true && <App />} 
         </div>
         </div>
         </div>
